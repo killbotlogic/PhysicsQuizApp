@@ -1,0 +1,1017 @@
+{
+    "tests":
+    [
+        {
+            "name": "Easy Test 2",
+            "questions":
+            [
+                {
+                    "image": "",
+                    "answer": "A",
+                    "value": "1",
+                    "category": "Motion",
+                    "text": "The fastest growing plant on record grew 3.7 m in 14 days. Its growth rate in micrometers per second is closest to:",
+                    "choices":
+                    {
+                        "C": "35",
+                        "D": "71",
+                        "E": "180",
+                        "A": "3.1",
+                        "B": "18"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "C",
+                    "value": "4",
+                    "category": "Motion",
+                    "text": "A car starts from rest and accelerates at a rate of 2.0 m/s<sup>2</sup> in a straight line until it reaches a speed of 20 m/s. The car then slows at constant rate of 1.0 m/s<sup>2</sup> until it stops. How much time elapses from start to stop?",
+                    "choices":
+                    {
+                        "C": "30 s",
+                        "D": "50 s",
+                        "E": "70 s",
+                        "A": "-10 s",
+                        "B": "10 s"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "E",
+                    "value": "1",
+                    "category": "Force",
+                    "text": "The term net force most accurately describes",
+                    "choices":
+                    {
+                        "C": "the quantity that keeps an object moving.",
+                        "D": "the mass of an object.",
+                        "E": "the quantity that changes the velocity of an object.",
+                        "A": "the inertia of an object.",
+                        "B": "the quantity that causes displacement."
+                    }
+                },
+                {
+                    "image": "A13-4.png",
+                    "answer": "E",
+                    "value": "4",
+                    "category": "Force",
+                    "text": "The figure below shows a block on a incline held by rope attached to a vertical wall. Let the mass of the block be 8.5 kg and the angle θ be 30°. If the cord is cut, find the magnitude of the resulting acceleration of the block.",
+                    "choices":
+                    {
+                        "C": "0.0 m/s<sup>2</sup>",
+                        "D": "0.25 m/s<sup>2</sup>",
+                        "E": "4.9 m/s<sup>2</sup>",
+                        "A": "6.0 m/s<sup>2</sup>",
+                        "B": "0.5 m/s<sup>2</sup>"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "D",
+                    "value": "1",
+                    "category": "Force",
+                    "text": "A boy climbs a vertical rope, which is suspended from the ceiling. He stops half way between the floor below and the ceiling above. Consider the following forces: (1) gravity, (2) normal force, (3) friction, and (4) tension. At that moment, ignoring any effects due to the surrounding air, which of these forces are acting on the boy?",
+                    "choices":
+                    {
+                        "C": "1 and 2 only",
+                        "D": "1 and 3 only",
+                        "E": "1 and 4 only",
+                        "A": "1, 2, 3, and 4",
+                        "B": "1, 2, and 3 only"
+                    }
+                },
+                {
+                    "image": "A13-6.png",
+                    "answer": "B",
+                    "value": "4",
+                    "category": "Force",
+                    "text": "A 3.5 kg block is pushed along a horizontal floor by a force <b>F</b> of magnitude 15 N at an angle θ = 40° with the horizontal as shown in the figure below. The coefficient of kinetic friction between the block and the floor is 0.25. The block's acceleration is closest to:",
+                    "choices":
+                    {
+                        "C": "0.16 m/s<sup>2</sup>",
+                        "D": "0.18 m/s<sup>2</sup>",
+                        "E": "0.20 m/s<sup>2</sup>",
+                        "A": "0.12 m/s<sup>2</sup>",
+                        "B": "0.14 m/s<sup>2</sup>"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "D",
+                    "value": "1",
+                    "category": "Work, Energy, Momentum",
+                    "text": "In raising an object to a given height by means of an inclined plane, as compared with raising the object vertically, there is a reduction in:",
+                    "choices":
+                    {
+                        "C": "friction",
+                        "D": "force required",
+                        "E": "value of the acceleration due to gravity",
+                        "A": "work required",
+                        "B": "distance pushed"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "C",
+                    "value": "4",
+                    "category": "Work, Energy, Momentum",
+                    "text": "The loaded cab of an elevator has a mass of 3.0x10<sup>3</sup> kg and moves 210 m up the shaft in 23 s at constant speed. The average power that the force from the cable is closest to:",
+                    "choices":
+                    {
+                        "C": "2.7x10<sup>5</sup> W",
+                        "D": "3.4x10<sup>5</sup> W",
+                        "E": "6.7x10<sup>5</sup> W",
+                        "A": "1.7x10<sup>4</sup> W",
+                        "B": "6.2x10<sup>4</sup> W"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "B",
+                    "value": "1",
+                    "category": "Rotation, Equilibrium",
+                    "text": "The center of mass of a system of particles has a constant velocity if:",
+                    "choices":
+                    {
+                        "C": "the velocity of the center of mass is initially zero",
+                        "D": "the particles are distributed symmetrically around the center of mass",
+                        "E": "the center of mass is at the geometric center of the system",
+                        "A": "the forces exerted by the particles on each other sum to zero",
+                        "B": "the external forces acting on particles of the system sum to zero"
+                    }
+                },
+                {
+                    "image": "A13-10.png",
+                    "answer": "D",
+                    "value": "4",
+                    "category": "Rotation, Equilibrium",
+                    "text": "The figure below shows a uniform sphere of mass m = 0.85 kg and radius r = 4.2 cm is held in place by a massless rope attached to a frictionless wall a distance L = 8.0 cm above the center of the sphere. The tension in the rope is closest to:",
+                    "choices":
+                    {
+                        "C": "3.1 N",
+                        "D": "9.4 N",
+                        "E": "9.6 N",
+                        "A": "0.75 N",
+                        "B": "1.4 N"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "A",
+                    "value": "1",
+                    "category": "Thermal",
+                    "text": "During the time that latent heat is involved in a change of state:",
+                    "choices":
+                    {
+                        "C": "a chemical reaction takes place",
+                        "D": "molecular activity remains constant",
+                        "E": "kinetic energy changes into potential energy",
+                        "A": "the temperature does not change",
+                        "B": "the substance always expands"
+                    }
+                },
+                {
+                    "image": "A13-12.png",
+                    "answer": "C",
+                    "value": "4",
+                    "category": "Thermal",
+                    "text": "Gas held within a chamber passes through the cycle shown in the figure below. Determine the energy transferred by the system as heat during process CA if the energy added as heat Q<sub>AB</sub> during process AB is 20.0 J, no energy is transferred as heat during process BC, and the net work done during the cycle is 15.0 J.",
+                    "choices":
+                    {
+                        "C": "-5.0 J",
+                        "D": "0.0 J",
+                        "E": "5.0 J",
+                        "A": "-20 J",
+                        "B": "-10 J"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "D",
+                    "value": "2",
+                    "category": "Experimental Skills",
+                    "text": "The speed limit of 55 miles per hour is shown on a traffic sign. What is the speed limit in meters per second? (1 inch = 2.54 cm, 5280 ft = 1 mile, 12 inch = 1 ft)",
+                    "choices":
+                    {
+                        "C": "21 m/s",
+                        "D": "25 m/s",
+                        "E": "28 m/s",
+                        "A": "12 m/s",
+                        "B": "19 m/s"
+                    }
+                },
+                {
+                    "image": "A13-14.png",
+                    "answer": "E",
+                    "value": "2",
+                    "category": "Experimental Skills",
+                    "text": "In an experiment, the period T of a pendulum was measured at various string lengths L. Experimental data are shown in the table below. The average deviation in period T for a string length of 0.325 m is closest to:",
+                    "choices":
+                    {
+                        "C": "± 0.042 s",
+                        "D": "± 0.044 s",
+                        "E": "± 0.076 s",
+                        "A": "± 0.028 s",
+                        "B": "± 0.030 s"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "C",
+                    "value": "3",
+                    "category": "Experimental Skills",
+                    "text": "From the experiment data given in Table 1, gravitational accelerations can be determined for each string length. The gravitational acceleration for a string of 0.625 m length is closest to:",
+                    "choices":
+                    {
+                        "C": "14.6 m/s<sup>2</sup>",
+                        "D": "14.9 m/s<sup>2</sup>",
+                        "E": "15.6 m/s<sup>2</sup>",
+                        "A": "9.63 m/s<sup>2</sup>",
+                        "B": "10.7 m/s<sup>2</sup>"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "A",
+                    "value": "3",
+                    "category": "Experimental Skills",
+                    "text": "The percentage uncertainty of the average period for a string of length 0.625 m determined from the pendulum measurement data set given in Table 1 is closest to:",
+                    "choices":
+                    {
+                        "C": "5.8 %",
+                        "D": "6.5 %",
+                        "E": "8.1 %",
+                        "A": "3.8 %",
+                        "B": "4.2 %"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Easy Test 1",
+            "questions":
+            [
+                {
+                    "image": "A12-1.png",
+                    "answer": "C",
+                    "value": "1",
+                    "category": "Motion", "text": "The diagram shows a velocity-time graph for a car moving in a straight line. At point P the car must be:",
+                    "choices":
+                    {
+                        "C": "accelerating",
+                        "D": "stationary",
+                        "E": "moving at about 45° with respect to the x axis",
+                        "A": "slowing down",
+                        "B": "climbing the hill"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "A",
+                    "value": "4",
+                    "category": "Motion",
+                    "text": "A ball is shot upward from the ground with an initial velocity of 12.0 m/s, along a y-axis that extends upward and that has its origin y = 0 on the ground. How much time does the ball take to move upward from y = 3.00 m to y = 5.00 m?",
+                    "choices":
+                    {
+                        "C": "0.532 s",
+                        "D": "1.92 s",
+                        "E": "2.17 s",
+                        "A": "0.250 s",
+                        "B": "0.283 s"
+                    }
+                },
+                {
+                    "image": "A12-3.png",
+                    "answer": "C",
+                    "value": "1",
+                    "category": "Force",
+                    "text": "A pendulum with a bob of 1 N weight is held at an angle θ from the vertical by a 2-N horizontal force F as shown. The tension in the string supporting the pendulum bob (in Newtons) is:",
+                    "choices":
+                    {
+                        "C": "√5",
+                        "D": "1",
+                        "E": "none of these",
+                        "A": "cos θ",
+                        "B": "2 / cos θ"
+                    }
+                },
+                {
+                    "image": "A12-4.png",
+                    "answer": "B",
+                    "value": "4",
+                    "category": "Force",
+                    "text": "The figure below shows a vertically-moving block on the end of a cord. The graph next to the figure gives the vertical velocity component v<sub>y</sub> as a function of time t. The block’s mass is 5.00 kg. What is the tension in the cord?",
+                    "choices":
+                    {
+                        "C": "23.5 N",
+                        "D": "32.4 N",
+                        "E": "49 N",
+                        "A": "14.5 N",
+                        "B": "29.0 N"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "D",
+                    "value": "1",
+                    "category": "Force",
+                    "text": "Acceleration is always in the direction:",
+                    "choices":
+                    {
+                        "C": "of the final velocity",
+                        "D": "of the net force",
+                        "E": "opposite to the frictional force",
+                        "A": "of the displacement",
+                        "B": "of the initial velocity"
+                    }
+                },
+                {
+                    "image": "A12-6.png",
+                    "answer": "A",
+                    "value": "4",
+                    "category": "Force",
+                    "text": "Although many ingenious schemes have been attributed to the building of the Great Pyramid, the stone blocks were probably hauled up the side of the pyramid by men pulling on ropes. In the figure below a 2000 kg stone block is in the process of being pulled up the finished (smooth) side of the Great Pyramid, which forms a plane inclined at angle θ = 52°. The block is secured to a wood sled and is pulled by multiple ropes (only one is shown). The sled’s track is lubricated with water to decrease the coefficient of static friction to 0.40. Assume negligible friction at the (lubricated) point where the ropes pass over the edge at the top of the side. If each man on top of the pyramid pulls with a (reasonable) force of 686 N, how many men are needed to start the block moving?",
+                    "choices":
+                    {
+                        "C": "129",
+                        "D": "431 N",
+                        "E": "686",
+                        "A": "30",
+                        "B": "43"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "A",
+                    "value": "1",
+                    "category": "Work, Energy, Momentum",
+                    "text": "If the total momentum of a system is changing:",
+                    "choices":
+                    {
+                        "C": "the system must be under the influence of gravity",
+                        "D": "the center of mass must have constant velocity",
+                        "E": "none of the above",
+                        "A": "a net external force must be acting on the system",
+                        "B": "particles of the system must be exerting forces on each other"
+                    }
+                },
+                {
+                    "image": "A12-8.png",
+                    "answer": "A",
+                    "value": "4",
+                    "category": "Work, Energy, Momentum",
+                    "text": "An initially stationary 15.0 kg crate of cheese wheels is pulled, via a cable, a distance d = 5.70m up a frictionless ramp to a height h of 2.50 m, where it stops. How much work W<sub>g</sub> is done on the crate by the gravitational force F<sub>g</sub> during the lift?",
+                    "choices":
+                    {
+                        "C": "0 J",
+                        "D": "184 J",
+                        "E": "365 J",
+                        "A": "-368 J",
+                        "B": "–182 J"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "C",
+                    "value": "1",
+                    "category": "Rotation",
+                    "text": "If a wheel turns with constant angular speed then:",
+                    "choices":
+                    {
+                        "C": "the wheel turns through equal angles in equal times",
+                        "D": "the angle through which the wheel turns in each second increases as time goes on",
+                        "E": "the angle through which the wheel turns in each second decreases as time goes on",
+                        "A": "each point on its rim moves with constant velocity",
+                        "B": "each point on its rim moves with constant acceleration"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "D",
+                    "value": "4",
+                    "category": "Rotation",
+                    "text": "During an analysis of a helicopter engine, you determine that the angular velocity of the rotor blades changes from ω<sub>0</sub> = 320 rev/min to ω<sub>1</sub> = 225 rev/min in a time interval Δt1 = 1.50 min as the rotor slows to rest at constant acceleration. What time interval is required for the blades to come to rest from their initial angular velocity?",
+                    "choices":
+                    {
+                        "C": "3.20 min",
+                        "D": "5.05 min",
+                        "E": "6.40 min",
+                        "A": "1.50 min",
+                        "B": "2.25 min"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "A",
+                    "value": "1",
+                    "category": "Statics, Angular Momentum", "text": "The angular momentum vector of Earth, due to its daily rotation, is directed:",
+                    "choices":
+                    {
+                        "C": "tangent to the equator toward the east",
+                        "D": "south",
+                        "E": "toward the sun",
+                        "A": "north",
+                        "B": "tangent to the equator toward the west"
+                    }
+                },
+                {
+                    "image": "A12-12.png",
+                    "answer": "A",
+                    "value": "4",
+                    "category": "Statics, Angular Momentum",
+                    "text": "In the figure below, a block B of mass M = 15.0 kg hangs by a cord from a knot K of mass m<sub>K</sub>, which hangs from a ceiling by means of two other cords. The cords have negligible mass, and the magnitude of the gravitational force on the knot is negligible compared to the gravitational force on the block. What are the tensions in Cord 1?",
+                    "choices":
+                    {
+                        "C": "147 N",
+                        "D": "176 N",
+                        "E": "238 N",
+                        "A": "104 N",
+                        "B": "134 N"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "B",
+                    "value": "1",
+                    "category": "Thermal",
+                    "text": "Materials X, Y, and Z are solids that are at their melting temperatures. Material X requires 200 J to melt 4 kg, material Y requires 300 J to melt 5 kg, and material Z requires 300 J to melt 6 kg. Rank the materials according to their heats of fusion, greatest first.",
+                    "choices":
+                    {
+                        "C": "Z, then X, then Y",
+                        "D": "Z, then X and Y",
+                        "E": "X, then Y, then Z",
+                        "A": "X, then Z, then Y",
+                        "B": "Y, then X and Z"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "A",
+                    "value": "4",
+                    "category": "Thermal",
+                    "text": "A small electric immersion heater is used to heat 100 g of water for a cup of instant coffee. The heater is labelled “200 watts” (it converts electrical energy to thermal energy at this rate). Calculate the time required to bring all this water from 23.0°C to 100°C, ignoring any heat losses. (c<sub>w</sub> = 4190 J/kg·K)",
+                    "choices":
+                    {
+                        "C": "261 s",
+                        "D": "302 s",
+                        "E": "322 s",
+                        "A": "161 s",
+                        "B": "243 s"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "D",
+                    "value": "2",
+                    "category": "Experimental Skills",
+                    "text": "When, according to legend, Pheidippides ran from Marathon to Athens in 490 B.C. to bring word of the Greek victory over the Persians, he probably ran at a speed of about 23 rides per hour (rides/h). The ride is an ancient Greek unit for length, as are the stadium and the plethron: 1 ride was defined to be 4 stadia, 1 stadium was defined to be 6 plethra, and, in terms of a modern unit, 1 plethron is 30.8 m. How fast did Pheidippides run in kilometers per second (km/s)?",
+                    "choices":
+                    {
+                        "C": "1.2×10<sup>-4</sup> km/s",
+                        "D": "4.7×10<sup>-3</sup> km/s",
+                        "E": "1.9×10<sup>-2</sup> km/s",
+                        "A": "2.0×10<sup>-4</sup> km/s",
+                        "B": "7.8×10<sup>-4</sup> km/s"
+                    }
+                },
+                {
+                    "image": "A12-16.png",
+                    "answer": "B",
+                    "value": "2",
+                    "category": "Experimental Skills",
+                    "text": "In an experiment a steel ball of 66.6 g weight falls on a flat surface of sand and creates a small crater of diameter D. The following table shows the data collected from measuring respective crater diameters D<sub>i</sub> at various heights from which the steel ball has been dropped. For each height the ball has been dropped five times and five crater diameters have been measured. For each height an average crater diameter and its respective uncertainty can be calculated. At the end of the experiment a student decided to calculate the mean of all uncertainties. The mean of the uncertainties the student calculated is closes to:",
+                    "choices":
+                    {
+                        "C": "±1.80 mm",
+                        "D": "±2.20 mm",
+                        "E": "±3.8 mm",
+                        "A": "±0.60 mm",
+                        "B": "±0.96 mm"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "D",
+                    "value": "2",
+                    "category": "Experimental Skills",
+                    "text": "The average kinetic energy (in mJ) that was required to increase the diameter of the crater by one millimetre in the 250mm fall was closest to:",
+                    "choices":
+                    {
+                        "C": "2.65",
+                        "D": "2.98",
+                        "E": "3.36",
+                        "A": "1.70",
+                        "B": "2.28"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "D",
+                    "value": "4",
+                    "category": "Experimental Skills",
+                    "text": "Assuming the diameter of the crater increases linearly with the height of the steel ball, the predicted crater diameter of a the same steel ball dropped from a height of 400mm is closest to:",
+                    "choices":
+                    {
+                        "C": "59.8 mm",
+                        "D": "69.6 mm",
+                        "E": "102.8 mm",
+                        "A": "54.5 mm",
+                        "B": "58.6 mm"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Easy Test 3",
+            "questions":
+            [
+                {
+                    "image": "m-s12-1.png",
+                    "answer": "B",
+                    "value": "1",
+                    "category": "Motion",
+                    "text": "Which of the following five coordinate versus time graphs represents the motion of an object moving with a constant speed?",
+                    "choices":
+                    {
+                        "C": "",
+                        "D": "",
+                        "E": "",
+                        "A": "",
+                        "B": ""
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "C",
+                    "value": "4",
+                    "category": "Motion",
+                    "text": "A small object is thrown with a speed of 25 m/s at an angle 53o above the horizontal. Ignore air resistance. The maximum height achieved by the object is closest to:",
+                    "choices":
+                    {
+                        "C": "20 m",
+                        "D": "30 m",
+                        "E": "60 m",
+                        "A": "-10 m",
+                        "B": "15 m"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "B",
+                    "value": "1",
+                    "category": "Force",
+                    "text": "The standard 1 kg mass is attached to a compressed spring and the spring is released. If the mass initially has an acceleration of 5.6 m/s<sup>2</sup>, the force of the spring has a magnitude of:",
+                    "choices":
+                    {
+                        "C": "11.2 N",
+                        "D": "0 N",
+                        "E": "undetermined",
+                        "A": "2.8 N",
+                        "B": "5.6 N"
+                    }
+                },
+                {
+                    "image": "m-s12-4.png",
+                    "answer": "B",
+                    "value": "4",
+                    "category": "Force",
+                    "text": "The figure below shows a vertically-moving block on the end of a cord. The graph next to the figure gives the vertical velocity component v<sub>y</sub> as a function of time t. The block’s mass is 5.00 kg. What is the tension in the cord?",
+                    "choices":
+                    {
+                        "C": "23.5 N",
+                        "D": "32.4 N",
+                        "E": "49 N",
+                        "A": "14.5 N",
+                        "B": "29.0 N"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "E",
+                    "value": "1",
+                    "category": "Force",
+                    "text": "A ball with a weight of 1.5 N is thrown at an angle of 30° above the horizontal with an initial speed of 12 m/s. At its highest point, the net force on the ball is:",
+                    "choices":
+                    {
+                        "C": "9.8 N, up",
+                        "D": "9.8 N, down",
+                        "E": "1.5 N, down",
+                        "A": "9.8 N, 30° below horizontal",
+                        "B": "zero"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "D",
+                    "value": "4",
+                    "category": "Force",
+                    "text": "At what maximum speed can a racing car travel around a curve 150 m in radius if the coefficient of static friction is 0.75?",
+                    "choices":
+                    {
+                        "C": "29m/s",
+                        "D": "33m/s",
+                        "E": "38m/s",
+                        "A": "12m/s",
+                        "B": "18m/s"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "B",
+                    "value": "1",
+                    "category": "Work, Energy, Momentum",
+                    "text": "A person pulls a suitcase along a rough horizontal surface by applying a constant force <b>F</b> at an angle above the horizontal. In pulling the suitcase a horizontal distance d, the work done by the person is:",
+                    "choices":
+                    {
+                        "C": "F × d × sinθ",
+                        "D": "F × d / cosθ",
+                        "E": "F × d / sinθ",
+                        "A": "F × d",
+                        "B": "F × d × cosθ"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "E",
+                    "value": "4",
+                    "category": "Work, Energy, Momentum",
+                    "text": "An object is thrown at an initial speed  v<sub>0</sub> = 5.0m/s at an angle relative to the horizontal. With what speed does it arrive at a point a vertical distance 20m down from the starting point?",
+                    "choices":
+                    {
+                        "C": "10 m/s",
+                        "D": "15 m/s",
+                        "E": "20 m/s",
+                        "A": "4.0 m/s",
+                        "B": "9.0 m/s"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "E",
+                    "value": "1",
+                    "category": "Rotation, Equilibrium",
+                    "text": "The coefficient of kinetic friction:",
+                    "choices":
+                    {
+                        "C": "is the ratio of force to area",
+                        "D": "can have units of newtons",
+                        "E": "none of the above",
+                        "A": "is in the direction of the frictional force",
+                        "B": "is in the direction of the normal force"
+                    }
+                },
+                {
+                    "image": "m-s12-10.png",
+                    "answer": "A",
+                    "value": "4",
+                    "category": "Rotation, Equilibrium",
+                    "text": "In the figure below, a block B of mass M = 15.0 kg hangs by a cord from a knot K of mass m<sub>K</sub>, which hangs from a ceiling by means of two other cords. The cords have negligible mass, and the magnitude of the gravitational force on the knot is negligible compared to the gravitational force on the block. What are the tensions in Cord 1?",
+                    "choices":
+                    {
+                        "C": "147 N",
+                        "D": "176 N",
+                        "E": "238 N",
+                        "A": "104 N",
+                        "B": "134 N"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "A",
+                    "value": "1",
+                    "category": "Thermal",
+                    "text": "Heat is:",
+                    "choices":
+                    {
+                        "C": "energy content of an object",
+                        "D": "a temperature difference",
+                        "E": "a property objects have by virtue of their temperatures",
+                        "A": "energy transferred by virtue of a temperature difference",
+                        "B": "energy transferred by macroscopic work"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "E",
+                    "value": "4",
+                    "category": "Thermal",
+                    "text": "A block of copper (c = 330 J/kg·K), originally at 20°C and at rest,  is dropped from a height of 40m. The block strikes and comes to rest on an insulated surface. What is the temperature increase of the copper, assuming no thermal energy loss?",
+                    "choices":
+                    {
+                        "C": "0.92°C",
+                        "D": "1.02°C",
+                        "E": "1.19°C",
+                        "A": "0.12°C",
+                        "B": "0.51°C"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "B",
+                    "value": "2",
+                    "category": "Experimental Skills",
+                    "text": "The cran is a British volume unit for freshly caught herrings: 1 cran = 170.474 litres (L) of fish, about 750 herrings. Suppose that, to be cleared through customs in Saudi Arabia, a shipment of 1255 crans must be declared in terms of cubic covidos, where the covido is an Arabic unit of length: 1 covido = 48.26 cm. What is the required declaration (2 significant figures)?",
+                    "choices":
+                    {
+                        "C": "2.5×10<sup>3</sup> covidos<sup>3</sup>",
+                        "D": "4.7×10<sup>3</sup> covidos<sup>3</sup>",
+                        "E": "2.0×10<sup>4</sup> covidos<sup>3</sup>",
+                        "A": "0.2×10<sup>3</sup> covidos<sup>3</sup>",
+                        "B": "1.9×10<sup>3</sup> covidos<sup>3</sup>"
+                    }
+                },
+                {
+                    "image": "m-s12-14.png",
+                    "answer": "B",
+                    "value": "2",
+                    "category": "Experimental Skills",
+                    "text": "In an experiment, the period T of a pendulum was measured at various string lengths L. Experimental data are shown in Table 1. The uncertainty in period T for a string length of 0.475m is closest to:",
+                    "choices":
+                    {
+                        "C": "±0.032 s",
+                        "D": "±0.044 s",
+                        "E": "±0.050 s",
+                        "A": "±0.028 s",
+                        "B": "±0.030 s"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "E",
+                    "value": "3",
+                    "category": "Experimental Skills",
+                    "text": "From the experiment data given in Table 1, gravitational accelerations can be determined for each string length. The overall average gravitational acceleration is closest to:",
+                    "choices":
+                    {
+                        "C": "10.7 m/s<sup>2</sup>",
+                        "D": "12.1 m/s<sup>2</sup>",
+                        "E": "14.7 m/s<sup>2</sup>",
+                        "A": "9.63 m/s<sup>2</sup>",
+                        "B": "9.85 m/s<sup>2</sup>"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "D",
+                    "value": "3",
+                    "category": "Experimental Skills",
+                    "text": "The percentage uncertainty of the for the average acceleration determined from the pendulum measurement data set given in Table 1 is closest to:",
+                    "choices":
+                    {
+                        "C": "5.8 %",
+                        "D": "6.5 %",
+                        "E": "10.2 %",
+                        "A": "4.5 %",
+                        "B": "5.6 %"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Easy Test 4",
+            "questions":
+            [
+                {
+                    "image": "",
+                    "answer": "E",
+                    "value": "1",
+                    "category": "Motion",
+                    "text": "Suppose it takes 10.0 hours to drain a container of 5700 m<sup>3</sup> of water. Assume that each cubic centimeter of water has a mass of exactly 1.00 g. How much mass of water in kg drains from the container each second?",
+                    "choices":
+                    {
+                        "C": "57.5",
+                        "D": "135",
+                        "E": "158",
+                        "A": "0.58",
+                        "B": "1.35"
+                    }
+                },
+                {
+                    "image": "m-s13-2.png",
+                    "answer": "B",
+                    "value": "4",
+                    "category": "Motion",
+                    "text": "A movie stuntman is to run across and directly off a rooftop (no jump), to land on the roof of the next building as shown in the figure. Find the minimum speed with which the stuntman has to run in order to reach next rooftop.",
+                    "choices":
+                    {
+                        "C": "4.8 m/s",
+                        "D": "6.8 m/s",
+                        "E": "9.8 m/s",
+                        "A": "2.4 m/s",
+                        "B": "4.5 m/s"
+                    }
+                },
+                {
+                    "image": "m-s13-3.png",
+                    "answer": "B",
+                    "value": "1",
+                    "category": "Force",
+                    "text": "The figure below shows a train of four blocks being pulled across a frictionless floor by force <b>F</b>. Rank the blocks according to their accelerations, greatest first.",
+                    "choices":
+                    {
+                        "C": "(10 kg block) > (3 kg block) > (5 kg block) > (2 kg block)",
+                        "D": "(2 kg block) > (5 kg block) > (3 kg block) > (10 kg block)",
+                        "E": "(10 kg block) > (5 kg block) > (3 kg block) > (2 kg block)",
+                        "A": "(2 kg block) > (3 kg block) > (5 kg block) > (10 kg block)",
+                        "B": "(10 kg block) = (3 kg block) = (5 kg block) = (2 kg block)"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "D",
+                    "value": "4",
+                    "category": "Force",
+                    "text": "A worker drags a crate across a factory floor by pulling on a rope tied to the crate. The worker pulls on the rope with a force of magnitude F = 450 N and the rope is inclined at angle θ = 38° to the horizontal. There is a frictional force f = 125 N between crate and floor. Calculate the magnitude of the acceleration of the crate if its mass is 31.6 kg.",
+                    "choices":
+                    {
+                        "C": "0.0 m/s<sup>2</sup>",
+                        "D": "7.3 m/s<sup>2</sup>",
+                        "E": "9.8 m/s<sup>2</sup>",
+                        "A": "2 m/s<sup>2</sup>",
+                        "B": "0.74 m/s<sup>2</sup>"
+                    }
+                },
+                {
+                    "image": "m-s13-5.png",
+                    "answer": "D",
+                    "value": "1",
+                    "category": "Force",
+                    "text": "The figure shows four choices for the direction of a force of magnitude  F to be applied to a block on an inclined plane. The directions are either horizontal or vertical. For choices a and b, the force is not enough to lift the block off the plane. Rank the choices according to the magnitude of the normal force on the block from the plane, greatest first.",
+                    "choices":
+                    {
+                        "C": "a > b > c > d",
+                        "D": "d > c > a > b",
+                        "E": "b > c > a > d",
+                        "A": "d > c > b > a",
+                        "B": "c > d > b > a"
+                    }
+                },
+                {
+                    "image": "m-s13-6.png",
+                    "answer": "A",
+                    "value": "4",
+                    "category": "Force",
+                    "text": "The figure shows a box (m<sub>1</sub> = 3.0 kg) on a frictionless plane  inclined at angle θ<sub>1</sub> = 30°. The box is connected via a cord of negligible mass to another box (m<sub>2</sub> = 2.0 kg) on a frictionless plane inclined at angle θ<sub>2</sub> = 60°. The pulley is frictionless and has negligible mass. The tension in the cord is closest to:",
+                    "choices":
+                    {
+                        "C": "22 N",
+                        "D": "23 N",
+                        "E": "29 N",
+                        "A": "16 N",
+                        "B": "18 N"
+                    }
+                },
+                {
+                    "image": "m-s13-7.png",
+                    "answer": "E",
+                    "value": "1",
+                    "category": "Work, Energy, Momentum",
+                    "text": "An ideal spring, with a pointer attached to its end, hangs next to a scale. With a 100N weight attached, the pointer indicates '40' on the scale as shown. Using a 200N weight instead results in '60' on the scale. Using an unknown weight X instead results in '30' on the scale. The weight of X is:",
+                    "choices":
+                    {
+                        "C": "30 N",
+                        "D": "40 N",
+                        "E": "50 N",
+                        "A": "10 N",
+                        "B": "20 N"
+                    }
+                },
+                {
+                    "image": "m-s13-8.png",
+                    "answer": "C",
+                    "value": "4",
+                    "category": "Work, Energy, Momentum",
+                    "text": "The figure shows three forces applied to a box that moves left by 3.00 m over a frictionless floor. The force magnitudes are F<sub>1</sub> = 5.00 N, F<sub>2</sub> = 9.00 N, and F<sub>3</sub> = 3.00 N, and the indicated angle is θ = 60°. During the displacement, the net work done on the trunk by the three applied forces is closest to:",
+                    "choices":
+                    {
+                        "C": "-1.75 J",
+                        "D": "2.48 J",
+                        "E": "7.45 J",
+                        "A": "0.00 J",
+                        "B": "-0.65 J"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "D",
+                    "value": "1",
+                    "category": "Rotation, Equilibrium",
+                    "text": "A wheel rotates with a constant angular  acceleration of π rad/s<sup>2</sup>. During a certain time interval its angular displacement is π rad. At the end of the interval its angular velocity is 2π rad/s. Its angular velocity at the beginning of the interval is:",
+                    "choices":
+                    {
+                        "C": "π rad/s",
+                        "D": "π 2<sup>1/2</sup> rad/s",
+                        "E": "2 π rad/s",
+                        "A": "0 rad/s",
+                        "B": "1 rad/s"
+                    }
+                },
+                {
+                    "image": "m-s13-10.png",
+                    "answer": "B",
+                    "value": "4",
+                    "category": "Rotation, Equilibrium",
+                    "text": "A climber leans out against a vertical ice wall that has negligible friction, as shown. Distance a is 0.914 m and distance L is 2.10 m. His center of mass is distance d = 0.940 m from the feet-ground contact point. If he is on the verge of sliding, what is the coefficient of static friction between feet and ground is closest to:",
+                    "choices":
+                    {
+                        "C": "0.370",
+                        "D": "0.422",
+                        "E": "0.437",
+                        "A": "0.121",
+                        "B": "0.216"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "D",
+                    "value": "1",
+                    "category": "Thermal",
+                    "text": "Metal pipes, used to carry water, sometimes burst in the winter because:",
+                    "choices":
+                    {
+                        "C": "metal becomes brittle when cold",
+                        "D": "water expands when it freezes",
+                        "E": "ice expands when it melts",
+                        "A": "metal contracts more than water",
+                        "B": "outside of the pipe contracts more than the inside"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "C",
+                    "value": "4",
+                    "category": "Thermal",
+                    "text": "An insulated thermos contains 130 cm<sup>3</sup> of hot coffee at 80.0°C. You put in a 12.0 g ice cube at its melting point to cool the coffee. What is the temperature (in degrees Celsius) of your coffee once the ice has melted and equilibrium is reached? The specific heat of coffee and water is 4186 J/kg·K. The latent heat of fusion is 333 kJ/kg. The density of water is 1.00 g/cm<sup>3</sup>.",
+                    "choices":
+                    {
+                        "C": "66.5 °C",
+                        "D": "77.8 °C",
+                        "E": "78.7 °C",
+                        "A": "49.2 °C",
+                        "B": "56.8 °C"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "D",
+                    "value": "2",
+                    "category": "Experimental Skills",
+                    "text": "The density of copper is 9.00 g/cm<sup>3</sup>. When 30 kg of a  5.00 mm diameter copper wire is unwound from a reel, the length of the wire is closest to:",
+                    "choices":
+                    {
+                        "C": "154 m",
+                        "D": "168 m",
+                        "E": "667 m",
+                        "A": "42.1 m",
+                        "B": "135 m"
+                    }
+                },
+                {
+                    "image": "m-s13-14.png",
+                    "answer": "D",
+                    "value": "2",
+                    "category": "Experimental Skills",
+                    "text": "In a laboratory experiment a small liquid droplet is 'struck'  by a sound wave resulting in an oscillation of the droplet with frequency f which seems to depend on the radius r of the droplets. Experimental data reveal that the frequency f appears to be proportional to:",
+                    "choices":
+                    {
+                        "C": "r<sup>2.2</sup>",
+                        "D": "∛r<sup>2</sup>",
+                        "E": "-3/2 × r",
+                        "A": "-2.2 × r",
+                        "B": "√r<sup>3</sup>"
+                    }
+                },
+                {
+                    "image": "m-s13-15.png",
+                    "answer": "D",
+                    "value": "3",
+                    "category": "Experimental Skills",
+                    "text": "In a prac experiment a steel ball of mass m = 28 gram is dropped from various heights into a sandpit. The experiment is repeated many times. The resulting diameters of sand craters formed in the process are measured and recorded as shown in the table below. The average crater diameter for a steel ball dropped from height 35.0 cm is closest to:",
+                    "choices":
+                    {
+                        "C": "69.1mm",
+                        "D": "68.8 mm",
+                        "E": "69.9 mm",
+                        "A": "67.8 mm",
+                        "B": "68.9 mm"
+                    }
+                },
+                {
+                    "image": "",
+                    "answer": "B",
+                    "value": "3",
+                    "category": "Experimental Skills",
+                    "text": "In the same experiment, a steel ball dropped from a height  of 15.0 cm falls into the sand with a kinetic energy closest to:",
+                    "choices":
+                    {
+                        "C": "51.8 × 10<sup>-3</sup> J",
+                        "D": "51.8 J/s",
+                        "E": "51.8 J",
+                        "A": "41.2 × 10<sup>-6</sup> Js",
+                        "B": "41.2 mJ"
+                    }
+                }
+            ]
+        }
+    ]
+}

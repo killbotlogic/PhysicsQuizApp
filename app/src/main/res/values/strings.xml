@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">College Physics I &amp; II Quizzes</string>
+    <string name="app_description">
+        Practice and revision tests for introductory and advanced physics courses
+        taught at the undergraduate university courses. Contains questions on
+        newtonian mechanics,
+        electricity,
+        magnetism,
+        fluid mechanics,
+        thermodynamics,
+        waves,
+        optics,
+        atomic physics and nuclear physics.
+    </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

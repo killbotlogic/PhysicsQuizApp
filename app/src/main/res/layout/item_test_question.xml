@@ -1,0 +1,64 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:paddingLeft="5dip"
+        android:paddingRight="5dip"
+        android:paddingTop="5dip">
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:layout_alignParentTop="true"
+        android:text="Question 5" />
+
+    <TextView
+        android:id="@+id/category"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Category: Thermodynamics"
+        android:layout_below="@+id/title" />
+
+    <TextView
+        android:id="@+id/marks"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Marks: 7"
+        android:layout_below="@+id/category" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title"
+        android:id="@+id/attempted"
+        android:text="Not attempted yet"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/attempted"
+        android:id="@+id/solution"
+        android:text="Solution is A"
+        android:layout_alignParentRight="true" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/solution"
+        android:id="@+id/marked"
+        android:text="Marked 6/7"
+        android:layout_alignParentRight="true" />
+    <RatingBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ratingBar"
+        android:numStars="4"
+        android:layout_below="@+id/marked"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:focusable="false" />
+
+</RelativeLayout>
+
+
+

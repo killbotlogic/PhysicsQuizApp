@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Andrew\AndroidStudioProjects\PhysicsTestQuestions\app\build\intermediates\pre-dexed\release\internal_impl-20.0.0-938a5e0b9b93531f827bbdf2e9822466db491bae.jar"
+        jar="C:\Users\Andrew\AndroidStudioProjects\PhysicsTestQuestions\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Andrew\AndroidStudioProjects\PhysicsTestQuestions\app\build\intermediates\pre-dexed\release\classes-e24977b19507cc402ae422876624403f71faa749.jar"
+        jar="C:\Users\Andrew\AndroidStudioProjects\PhysicsTestQuestions\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.0.77\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b6a82434c1eca686607867cd906bcc80ed987837"/>
+    <item
+        dex="E:\Users\Andrew\AndroidStudioProjects\PhysicsTestQuestions\app\build\intermediates\pre-dexed\debug\support-v13-19.1.0-9495ebac704a73fdfff0ba0f1d8bb6796b9f634d.jar"
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-v13\19.1.0\support-v13-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6b852a232f642c75a7fdfc7212b841b8c8f8959c"/>
+    <item
+        dex="C:\Users\Andrew\AndroidStudioProjects\PhysicsTestQuestions\app\build\intermediates\pre-dexed\release\support-annotations-20.0.0-a4e99bb09db83315001218d362c2ad030bbe2f2c.jar"
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="E:\Users\Andrew\AndroidStudioProjects\PhysicsTestQuestions\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-c30e376a8a37b42530721aa3276156097e39d8df.jar"
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Users\Andrew\AndroidStudioProjects\PhysicsTestQuestions\app\build\intermediates\pre-dexed\release\internal_impl-20.0.0-7127a704a2def60a02c790f0cbbb4350def228ca.jar"
+        jar="C:\Users\Andrew\AndroidStudioProjects\PhysicsTestQuestions\build\intermediates\exploded-aar\com.android.support\support-v13\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33"/>
+    <item
+        dex="C:\Users\Andrew\AndroidStudioProjects\PhysicsTestQuestions\app\build\intermediates\pre-dexed\release\classes-30836ad4bb8fa7463ac34759439ccc4b6c4cac2b.jar"
+        jar="C:\Users\Andrew\AndroidStudioProjects\PhysicsTestQuestions\build\intermediates\exploded-aar\com.android.support\support-v13\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56"/>
+    <item
+        dex="C:\Users\Andrew\AndroidStudioProjects\PhysicsTestQuestions\app\build\intermediates\pre-dexed\release\classes-c75c4cfeddd74513620f11de7494f93be592a016.jar"
+        jar="C:\Users\Andrew\AndroidStudioProjects\PhysicsTestQuestions\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>

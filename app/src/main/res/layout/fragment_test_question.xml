@@ -1,0 +1,91 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/main_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Large Text"
+            android:id="@+id/text_test_question_title"
+            android:layout_margin="10dp" />
+
+        <TextView
+            android:id="@+id/question_text"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Note that the speaker-hearer's linguistic intuition delimits a general convention regarding the forms of the grammar."
+            android:textIsSelectable="false"
+            tools:context="com.killbotlogic.physicstestquestions.app.TestQuestionFragment"
+            android:layout_margin="10dp" />
+
+        <ImageView
+            android:id="@+id/question_image"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:adjustViewBounds="false"
+            android:cropToPadding="false"
+            android:longClickable="false"
+            android:scaleType="fitCenter"
+            android:src="@drawable/q2"
+            android:minHeight="300dp"
+            android:layout_margin="10dp" />
+
+
+        <RadioGroup
+            android:id="@+id/question_options"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_gravity="center_horizontal">
+
+            <RadioButton
+                android:id="@+id/radio_a"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="A. PIRATES"
+                android:layout_gravity="left" />
+
+            <RadioButton
+                android:id="@+id/radio_b"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="B. NINJAS"
+                android:layout_gravity="left" />
+
+            <RadioButton
+                android:id="@+id/radio_c"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="C. BEARS"
+                android:layout_gravity="left" />
+
+            <RadioButton
+                android:id="@+id/radio_d"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="D. LIONS"
+                android:layout_gravity="left" />
+
+            <RadioButton
+                android:id="@+id/radio_e"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="E. TIGERS"
+                android:layout_gravity="left" />
+        </RadioGroup>
+
+    </LinearLayout>
+</ScrollView>
+
